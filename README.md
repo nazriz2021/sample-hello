@@ -1,2 +1,2 @@
 # sample-hello
-Typing something
+Typing nothing
